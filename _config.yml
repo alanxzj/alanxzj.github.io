@@ -24,7 +24,8 @@ github_username:  alanxzj
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+theme : jekyll-theme-architect
 plugins:
   - jekyll-feed
 
