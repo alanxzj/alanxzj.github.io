@@ -1,0 +1,13 @@
+install_manifest.txt
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+*.pb.cc
+*.pb.h
+*.so
+CMakeFiles
+CMakeFiles/*
+*/CMakeFiles
+*/CMakeFiles/*
+build/
+
