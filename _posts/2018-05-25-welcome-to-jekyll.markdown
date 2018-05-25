@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "欢迎大家来到天浪苑"
+title:  "Blog System Jekyll mini readme"
 date:   2018-05-25 15:43:58 +0800
 categories: jekyll update
 ---
